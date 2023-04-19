@@ -2,10 +2,10 @@
   "name": "group-project-11-filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlegBilas.github.io/group-project-11-filmoteka",
+  "homepage": "https://GoitStudentsWorks.github.io/js_71_OlegBilas",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /group-project-11-filmoteka/"
+    "build": "parcel build src/*.html --public-url /js_71_OlegBilas/"
   },
   "repository": {
     "type": "git",
